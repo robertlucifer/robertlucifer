@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif)](https://robertlucifer.github.io/Robert-Portfolio-/)
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 # 💫 About Me:
 🔭I'm currently working on Salesforce and React web development<br>👯I'm looking to collaborate on machine learning and AI<br>🤝I'm looking for help with web-development and Machine learning<br>🌱I'm currently learning React framework.<br>🗨️Ask me about hardware, and let's make brainstorming of various ideas <br>⚡ Fun fact that, I am always ready to have good interactive conversation.
